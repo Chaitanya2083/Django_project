@@ -3,5 +3,7 @@ y = int(input("Enter y: "))
 
 if x > y:
     print("X is bigger")
+elif x == y:
+    print("X is equal to y")
 else:
-    print("y is bigger")
+    print("X is smaller")
