@@ -1,6 +1,4 @@
 x = int(input("Enter x: "))
-
-if x%2==0:
-    print("x is even")
-        else:
-        print("x is odd")
+y = int(input("Enter y: "))
+z = x + y
+print("sum of x and y", z)
