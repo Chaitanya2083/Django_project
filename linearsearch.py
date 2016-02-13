@@ -7,6 +7,6 @@ def linearsearch(myitem, mylist):
             position = position + 1
         return found
 
-    
+
 
 
